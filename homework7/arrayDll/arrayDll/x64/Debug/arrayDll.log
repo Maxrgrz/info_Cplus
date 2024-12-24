@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\GinDoyr\source\repos\arrayDll\Source.cpp(5,6): warning C4273: sumArrays: несовместимое связывание dll
+  (компиляция исходного файла "/Source.cpp")
+      C:\Users\GinDoyr\source\repos\arrayDll\Header.h(10,24):
+      см. предыдущее определение "sumArrays"
+  
+     Создается библиотека C:\Users\GinDoyr\source\repos\arrayDll\x64\Debug\arrayDll.lib и объект C:\Users\GinDoyr\source\repos\arrayDll\x64\Debug\arrayDll.exp
+  arrayDll.vcxproj -> C:\Users\GinDoyr\source\repos\arrayDll\x64\Debug\arrayDll.dll
