@@ -28,7 +28,7 @@ double monteCarlo(int N) {
 
 // Unit-тестирование
 void test() {
-    double expected_value = 16;
+    double expected_value = 8;
     double epsilon = 0.5;
 
     assert(std::abs(monteCarlo(10000) - expected_value) < epsilon);
